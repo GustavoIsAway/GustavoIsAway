@@ -1,5 +1,4 @@
-Oi, eu sou o Gustavo
-Meu objetivo aqui é treinar um pouco de programação e ajudar quem quiser com um pouco de conhecimento que eu tenho. Simples assim.
+Quero programar.
 
 <!---
 GustavoIsAway/GustavoIsAway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
